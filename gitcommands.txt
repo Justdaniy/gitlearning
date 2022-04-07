@@ -1,5 +1,8 @@
+git clone[remote repository->local(exact copy)]
+git push[local->remote repo(commited changes)]
+git pull[remote repo->local(commited changes)]
+git add[adding to staging area]
+git commit[staging area->local repo]
 git init[initialising git]
-git add -A[adding files to staging area]
-git commit -m"your message"[adding files to local repo]
 git status[listing all untracked files]
- 
+-A[used to add changes in all filea]
